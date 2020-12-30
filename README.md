@@ -12,7 +12,7 @@ In the proposed algorithm an efficient method for recognition of Indian vehicle 
 
 This project will work efficiently in recognizing owner's vehicle in small Institutions/Housing societies/Apartments. We can further modify the code to use it in other areas where ANPR is necessary. 
 
-![Output](Results.jpeg)
+![Output](Output.jpeg)
 
 Refer [Project_Report.pdf](Project_Report.pdf) and [Project Implementation vedio](https://drive.google.com/file/d/1ftCxlbQqHYLonTMoqEFcAyVe4OKleW2j/view?usp=sharing)  for more details regarding the implementation. 
 
